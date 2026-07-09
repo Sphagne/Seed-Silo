@@ -5,7 +5,9 @@ Here is how it works:
 All the files start with a number, say 401
 
 Then it is followed by a "-" or "~"
+
 For Cubiomes session files, it's "-"
+
 For plain text files, it's "~"
 
 In these files  I have collected some seeds from sessions files
