@@ -1,0 +1,52 @@
+﻿plains:
+420338860418
+
+plains forest:
+18752139887
+194393015348
+
+jungle:
+760711034
+
+forest:
+265756300697
+554146781533
+837493487629
+
+medium populated desert
+954799096330
+
+medium populated jungle:
+745107014038
+
+medium plains peak:
+338443442169
+
+medium plains forest:
+391484640343
+
+medium varied:
+176354121912
+
+large populated plains:
+638753761045
+
+large plains forest:
+221704999911
+349404016271
+530475861963
+690075860212
+
+large forest:
+172640855787
+
+large desert:
+944457012729
+
+large varied:
+336100052140
+374710158527
+812886692927
+
+huge forest:
+949148900584
