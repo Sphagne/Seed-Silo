@@ -21,13 +21,13 @@ Seed banks are the Cubiome sessions that contain lots of raw seeds with similar 
 All the files that search within a seed bank begin with the same number as their source bank
 
 For instance the file [401 - +++ all structures in 2k] contains lots of seeds with the condition to have all these structures within a 2k radius:
-Woodland Mansion
-Desert Pyramid
-Jungle Temple
-Swamp Hut
-Ocean Monument
-Igloo
-Pillager Outpost
+Woodland Mansion,
+Desert Pyramid,
+Jungle Temple,
+Swamp Hut,
+Ocean Monument,
+Igloo,
+Pillager Outpost,
 Ancient City
 
 And all these seeds start inside a plains village
