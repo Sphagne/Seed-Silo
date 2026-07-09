@@ -5,8 +5,8 @@ Here is how it works:
 All the files start with a number, say 401
 
 Then it is followed by a "-" or "~"
-"-" : means it's a Cubiomes session file
-"~" : means it's a plain text file in which I have collected some seeds from sessions files
+/- : means it's a Cubiomes session file
+/~ : means it's a plain text file in which I have collected some seeds from sessions files
 
 After that comes the file description, which is a brief description of the content
 
