@@ -42,6 +42,8 @@ This specialized search would be very fast and result in finding such village wi
 
 This rule applies to all the other source banks within these files and all the other specialized searched within those banks
 
+Edit: By the way, I have removed the directory of the source file, from within the session files, because in each computer it's different, so your session files would not find their source and if you want to continue their search, then you have to manually find the source file yourself and make it the source for the next searches.
+
 Hope you like my efforts
 
 Regards
