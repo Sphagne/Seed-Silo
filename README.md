@@ -87,7 +87,7 @@ Every file in this repository follows a structured naming pattern:
 
 Hope you enjoy exploring and building on these seeds!
 
-— **Sphagne**
+**Sphagne**
 
 ---
 
