@@ -81,7 +81,7 @@ Every file in this repository follows a structured naming pattern:
 ### For Seed Hunters (Using Cubiomes Viewer)
 1. Download and open **Cubiomes Viewer**.
 2. Load any `-` session file (or a `+++` seed bank) into Cubiomes Viewer.
-3. **Important — Relink the Source File:** Local source-file directory paths were removed from the session files for portability across machines. If you want to continue or re-run a specialized search (`-`), manually point its seed source in Cubiomes Viewer to the matching `+++` seed bank file on your computer (matched by the leading ID number).
+3. **Important — Add the Folder Path / Relink the Source File:** The specialized session files (`-`) that refer to a seed bank only contain the **file name** of the seed bank—I removed the folder part because the directory will likely be different on every computer. Since Cubiomes Viewer needs the folder path as well, if you want to run or continue these sessions you will need to fix this yourself by either pointing Cubiomes Viewer to the matching `+++` seed bank file on your computer or adding your local folder path back into the session file.
 
 ---
 
