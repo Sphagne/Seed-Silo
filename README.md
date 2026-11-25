@@ -76,7 +76,7 @@ Every file in this repository follows a structured naming pattern:
 
 ### For Players (Just Looking for Seeds)
 - Open any `~` file (e.g., [`401 ~ all structure selection.txt`](401%20~%20all%20structure%20selection.txt)) to grab curated seeds directly.
-- You can also open any `-` session file in a text editor—the numeric seed IDs are listed line by line below the `#` metadata headers.
+- You can also open any `-` session file in a text editor, the numeric seed IDs are listed line by line below the `#` metadata headers.
 
 ### For Seed Hunters (Using Cubiomes Viewer)
 1. Download and open **Cubiomes Viewer**.
