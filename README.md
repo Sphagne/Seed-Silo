@@ -12,9 +12,9 @@ A curated collection of **Minecraft (1.21.3)** seed banks, [Cubiomes Viewer](htt
 
 Finding seeds with very specific combinations of biomes, terrain, and structures from scratch can take a long time. **Seed Silo** solves this with a two-stage filtering workflow:
 
-1. **Seed Banks (`+++`)** — Cubiomes sessions containing thousands of raw seeds that share a broad, useful set of baseline conditions (e.g., all major structures within a 2,000-block radius).
-2. **Specialized Sessions (`-`)** — Follow-up Cubiomes sessions that use a seed bank as their *input source* instead of searching all 64-bit seeds. Because they only iterate over pre-filtered seeds, specialized searches run orders of magnitude faster.
-3. **Seed Selections (`~`)** — Plain-text files containing curated seeds extracted from those sessions, ready to copy and paste directly into Minecraft.
+1. **Seed Banks (`+++`)** : Cubiomes sessions containing thousands of raw seeds that share a broad, useful set of baseline conditions (e.g., all major structures within a 2,000-block radius).
+2. **Specialized Sessions (`-`)** : Follow-up Cubiomes sessions that use a seed bank as their *input source* instead of searching all 64-bit seeds. Because they only iterate over pre-filtered seeds, specialized searches run orders of magnitude faster.
+3. **Seed Selections (`~`)** : Plain-text files containing curated seeds extracted from those sessions, ready to copy and paste directly into Minecraft.
 
 ---
 
@@ -29,9 +29,9 @@ Every file in this repository follows a structured naming pattern:
 | Token | Meaning |
 | :--- | :--- |
 | `<Bank ID>` | Numeric (or grouped, e.g., `100`, `212`, `401`) identifier linking specialized searches to their parent seed bank. Files sharing the same ID belong to the same family. |
-| `-` | **Cubiomes Viewer session file** — contains search parameters/conditions and discovered seeds. |
-| `~` | **Plain-text seed list** — contains selected seeds extracted from session files. |
-| `+++` | **Seed bank** — a foundational Cubiomes session meant to be used as a source for narrower searches. |
+| `-` | **Cubiomes Viewer session file**, contains search parameters/conditions and discovered seeds. |
+| `~` | **Plain-text seed list**, contains selected seeds extracted from session files. |
+| `+++` | **Seed bank**, a foundational Cubiomes session meant to be used as a source for narrower searches. |
 | `0 ! about these files.txt` | Original plain-text overview note included in the repository. |
 
 ---
