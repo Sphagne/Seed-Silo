@@ -14,7 +14,7 @@ Finding seeds with very specific combinations of biomes, terrain, and structures
 
 1. **Seed Banks (`+++`)** : Cubiomes sessions containing thousands of raw seeds that share a broad, useful set of baseline conditions (e.g., all major structures within a 2,000-block radius).
 2. **Specialized Sessions (`-`)** : Follow-up Cubiomes sessions that use a seed bank as their *input source* instead of searching all 64-bit seeds. Because they only iterate over pre-filtered seeds, specialized searches run orders of magnitude faster.
-3. **Seed Selections (`~`)** : Plain-text files containing curated seeds extracted from those sessions, ready to copy and paste directly into Minecraft.
+3. **Seed Selections (`~`)** : Plain-text files containing collected seeds extracted from those sessions, ready to copy and paste directly into Minecraft.
 
 ---
 
