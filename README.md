@@ -2,7 +2,7 @@
 
 ![Seed Silo](seed-silo-banner.jpg)
 
-A collection of **Minecraft (1.21.3)** seed banks, [Cubiomes Viewer](https://github.com/Cubitect/cubiomes-viewer) session files, and hand-picked seed lists created by me, **Sphagne** for finding interesting seeds for the Minecraft community.
+A collection of **Minecraft (1.18)** seed banks, [Cubiomes Viewer](https://github.com/Cubitect/cubiomes-viewer) session files, and hand-picked seed lists created by me, **Sphagne** for finding interesting seeds for the Minecraft community.
 
 > **Contents:** 39 foundational seed banks · 212 specialized Cubiomes sessions · 25 plain-text seed selections
 
